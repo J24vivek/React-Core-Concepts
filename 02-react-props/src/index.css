@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+#Cardflow::-webkit-scrollbar {
+    display: none;
+}
