@@ -1,6 +1,6 @@
 # React Core Concepts – Hands-on Projects
 
-This repository contains hands-on projects built to understand and practice **core React concepts** in a structured and sequential manner.
+Hands-on projects built to understand and practice **Core React Concepts** in a structured and sequential manner.
 Each section focuses on one important React concept with a simple implementation and example.
 
 ---
@@ -14,7 +14,7 @@ Each section focuses on one important React concept with a simple implementation
 
 ---
 
-## Concepts Covered 
+## Concepts Covered & Used In Projects
 
 ### 1. Map (Rendering Lists)
 - Rendering dynamic lists using the `map()` method
@@ -44,7 +44,7 @@ Each section focuses on one important React concept with a simple implementation
 ---
 
 ### 4. Routing (React Router)
-- Implementing client-side routing
+- Implementing client-Side routing
 - Creating multiple pages using `react-router-dom`
 - Navigation without page reload
 
